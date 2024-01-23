@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p style="font-family: Comic Sans">Test</p>
+<span style="color: #f2cf4a; font-family: 'Comic Sans'; font-size: 2em;">Test</span>
 
 <!--
 **chaseking/chaseking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
